@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Android Studio
+Exec=/usr/share/android-studio/data/bin/studio.sh
+Comment=Integrated Android developer tools for development and debugging.
+Icon=/usr/share/icons/androidstudio.svg
+Categories=GNOME;GTK;Development;IDE;
