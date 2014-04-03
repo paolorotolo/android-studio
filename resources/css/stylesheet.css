@@ -125,7 +125,7 @@ footer a:focus, footer a:hover {
 #home {
     height: 100%;
     background-color: #32aad8;
-    background-image: url(../img/bg.png);
+    background-image: url(../img/bg.jpg);
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
@@ -175,7 +175,7 @@ footer a:focus, footer a:hover {
 #home2 {
     height: 100%;
     background-color: #32aad8;
-    background-image: url(../img/studio-ubuntu.png);
+    background-image: url(../img/studio-ubuntu.jpg);
     background-attachment: scroll;
     background-position: top top;
     -webkit-background-size: cover;
@@ -204,7 +204,7 @@ footer a:focus, footer a:hover {
 #home3 {
     height: 100%;
     background-color: #32aad8;
-    background-image: url(../img/blueprint.png);
+    background-image: url(../img/blueprint.jpg);
     background-attachment: scroll;
     background-position: top top;
     -webkit-background-size: cover;
