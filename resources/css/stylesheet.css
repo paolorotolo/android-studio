@@ -1,0 +1,285 @@
+html { height: 100%; }
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #ecf0f1;
+    color: #333;
+    font-size: 100%;
+    font-family: 'Open Sans';
+}
+
+a {
+    border-bottom: 1px solid rgba(0,135,246,0.1);
+    color: #0087f6;
+    text-decoration: none;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    transition: .3s ease;
+}
+
+a:focus, a:hover {
+    outline: none;
+    border-bottom: 1px solid #0087f6;
+}
+
+input[type=entry] {
+    padding: 2%;
+    border: 1px solid #000;
+    border: 1px solid rgba(0,0,0,0.1);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #000;
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+    font-weight: 600;
+    font-size: 100%;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    transition: .3s ease;
+}
+
+input[type=entry]:hover, input[type=entry]:focus, input[type=entry]:active {
+    outline: none;
+    border: 1px solid #000;
+    border: 1px solid rgba(0,0,0,0.3);
+    background: #000;
+    background: rgba(0,0,0,0.5);
+}
+
+input[type=submit] {
+    padding: 2%;
+    border: 1px solid #0065d4;
+    border: 1px solid rgba(255,255,255,0.1);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #0065d4;
+    color: #fff;
+    font-weight: 600;
+    font-size: 100%;
+    cursor: pointer;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    transition: .3s ease;
+}
+
+input[type=submit]:hover, input[type=submit]:focus, input[type=submit]:active {
+    outline: none;
+    border: 1px solid #0087f6;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: #0087f6;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: xx-large;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: x-large;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: large;
+}
+
+code {
+    font-weight: 600;
+    font-size: 110%;
+    font-family: monospace;
+    line-height: 120%;
+}
+
+section {
+    margin: 0;
+    padding: 0 20%;
+}
+
+footer {
+    padding: 1% 20%;
+    border-top: 1px solid #222;
+    background-color: #222222;
+    color: #dedede;
+    font-size: 85%;
+    text-align: center;
+}
+
+footer a {
+    border-bottom: 1px solid rgb(34, 34, 34);
+    color: #dedede;
+    text-decoration: none;
+}
+
+footer a:focus, footer a:hover {
+    border-bottom: 1px solid #dcdcdc;
+    text-decoration: none;
+}
+
+/*home1*/
+
+#home {
+    height: 100%;
+    background-color: #32aad8;
+    background-image: url(../img/bg.png);
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#home a {
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    color: #fff;
+}
+
+#home a:focus, #home a:hover {
+    border-bottom: 1px solid #fff;
+}
+
+#home .title {
+    position: relative;
+    top: -100px;
+    font-size: 500%;
+}
+
+#home .subtitle {
+    position: relative;
+    top: -140px;
+    font-size: 200%;
+}
+
+#home .content {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#home .code {
+    background: rgba(0,0,0,0.5);
+    padding: 2%;
+    border-radius: 3px;
+}
+
+/*home2*/
+
+#home2 {
+    height: 100%;
+    background-color: #32aad8;
+    background-image: url(../img/studio-ubuntu.png);
+    background-attachment: scroll;
+    background-position: top top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#home2 .title {
+    position: relative;
+    top: -20px;
+    left: -270px;
+    font-size: 300%;
+}
+
+#home2 .subtitle {
+    position: relative;
+    top: -70px;
+    left: -270px;
+    font-size: 200%;
+}
+
+/*home3*/
+
+#home3 {
+    height: 100%;
+    background-color: #32aad8;
+    background-image: url(../img/blueprint.png);
+    background-attachment: scroll;
+    background-position: top top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat;
+    color: #fff;
+}
+
+#home3 .title {
+    position: relative;
+    top: -20px;
+    left: -300px;
+    font-size: 300%;
+}
+
+#home3 .subtitle {
+    position: relative;
+    top: -70px;
+    left: -300px;
+    font-size: 120%;
+}
+
+.center {
+    float: center;
+}
+
+.left {
+    float: left;
+    
+}
+
+.right {
+    float: right;
+}
+
+.content { padding: 5% 0; }
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+
+::-webkit-scrollbar-button { display: none; }
+
+::-webkit-scrollbar-track { background: #fff; }
+
+::-webkit-scrollbar-thumb {
+    border: 1px solid #b2b2b2;
+    background: #c8c8c8;
+}
+
+::-webkit-scrollbar-thumb:vertical { min-height: 100px; }
+
+::-webkit-scrollbar-thumb:horizontal { min-width: 100px; }
+
+::-webkit-scrollbar-thumb:hover {
+    border: 1px solid #9c9c9c;
+    background: #b2b2b2;
+}
+
+::-webkit-scrollbar-thumb:active {
+    border: 1px solid #666;
+    background: #888;
+}
+
+@media screen and (max-width: 640px) {
+    body { font-size: 85%; }
+    nav { font-size: 100%; }
+    nav ul { padding: 0 5px; }
+    nav a { padding: 10px; }
+    section { padding: 0 5px; }
+    footer { padding: 10px 5px; }
+    .content { padding: 10px; }
+    .thumb { margin: 0 10px 10px 0; }
+    .palette div { display: block; }
+    .profile img { float: none; }
+}
