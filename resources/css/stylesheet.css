@@ -188,14 +188,14 @@ footer a:focus, footer a:hover {
 #home2 .title {
     position: relative;
     top: -20px;
-    left: -270px;
+    margin-left: -25%;
     font-size: 300%;
 }
 
 #home2 .subtitle {
     position: relative;
     top: -70px;
-    left: -270px;
+    margin-left: -25%;
     font-size: 200%;
 }
 
@@ -217,14 +217,14 @@ footer a:focus, footer a:hover {
 #home3 .title {
     position: relative;
     top: -20px;
-    left: -300px;
+    margin-left: -25%;
     font-size: 300%;
 }
 
 #home3 .subtitle {
     position: relative;
     top: -70px;
-    left: -300px;
+    margin-left: -25%;
     font-size: 120%;
 }
 
