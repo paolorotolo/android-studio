@@ -218,6 +218,34 @@ footer a:focus, footer a:hover {
     font-size: 120%;
 }
 
+/*home4*/
+
+#home4 {
+    height: 100%;
+    background-color: #32aad8;
+    background-image: url(../img/home.jpg);
+    background-attachment: scroll;
+    background-position: top top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat;
+    color: #fff;
+    overflow-x:scroll;
+}
+
+#home4 .title {
+    display: inline-block;
+    position: relative;
+    font-size: 300%;
+}
+
+#home4 .subtitle {
+        display: inline-block;
+    position: relative;
+    font-size: 120%;
+}
+
 .center {
     float: center;
 }
@@ -234,31 +262,8 @@ footer a:focus, footer a:hover {
 .content { padding: 5% 0; }
 
 ::-webkit-scrollbar {
-    width: 12px;
-    height: 12px;
-}
-
-::-webkit-scrollbar-button { display: none; }
-
-::-webkit-scrollbar-track { background: #fff; }
-
-::-webkit-scrollbar-thumb {
-    border: 1px solid #b2b2b2;
-    background: #c8c8c8;
-}
-
-::-webkit-scrollbar-thumb:vertical { min-height: 100px; }
-
-::-webkit-scrollbar-thumb:horizontal { min-width: 100px; }
-
-::-webkit-scrollbar-thumb:hover {
-    border: 1px solid #9c9c9c;
-    background: #b2b2b2;
-}
-
-::-webkit-scrollbar-thumb:active {
-    border: 1px solid #666;
-    background: #888;
+    width: 0px;
+    height: 0px;
 }
 
 @media screen and (max-width: 640px) {
