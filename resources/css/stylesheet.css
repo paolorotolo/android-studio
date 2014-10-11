@@ -146,7 +146,6 @@ footer a:focus, footer a:hover {
 }
 
 #home .title {
-    margin-top: 100%;
     display: inline-block;
     position: relative;
     font-size: 500%;
@@ -155,14 +154,6 @@ footer a:focus, footer a:hover {
 #home .subtitle {
     position: relative;
     font-size: 200%;
-}
-
-#home .content {
-  position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 #home .code {
