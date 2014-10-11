@@ -97,7 +97,7 @@ code {
 
 section {
     margin: 0;
-    padding: 0 20%;
+    padding: 0 10%;
 }
 
 footer {
@@ -146,7 +146,7 @@ footer a:focus, footer a:hover {
 
 #home .title {
     position: relative;
-    top: -20px;
+    top: 50%;
     font-size: 500%;
 }
 
@@ -187,15 +187,13 @@ footer a:focus, footer a:hover {
 
 #home2 .title {
     position: relative;
-    top: -20px;
-    margin-left: -25%;
+    display: inline-block;
     font-size: 300%;
 }
 
 #home2 .subtitle {
+        display: inline-block;
     position: relative;
-    top: -70px;
-    margin-left: -25%;
     font-size: 200%;
 }
 
@@ -215,16 +213,14 @@ footer a:focus, footer a:hover {
 }
 
 #home3 .title {
+    display: inline-block;
     position: relative;
-    top: -20px;
-    margin-left: -25%;
     font-size: 300%;
 }
 
 #home3 .subtitle {
+        display: inline-block;
     position: relative;
-    top: -70px;
-    margin-left: -25%;
     font-size: 120%;
 }
 
