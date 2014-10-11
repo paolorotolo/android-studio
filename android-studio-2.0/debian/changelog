@@ -1,0 +1,19 @@
+android-studio (2.0-0ubuntu0) UNRELEASED; urgency=low
+
+  * New upstream release.
+  * Now Andorid Studio is downloaded from web.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Fri, 10 Oct 2014 23:48:16 +0100
+
+
+android-studio (1.0+201406271547~4~ubuntu14.10.1) utopic; urgency=low
+
+  * Auto build.
+
+ -- Paolo Rotolo <rotolopao@gmail.com>  Fri, 27 Jun 2014 15:48:03 +0000
+
+android-studio (1.0-0ubuntu0) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Sat, 29 Mar 2014 22:06:16 +0100

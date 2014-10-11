@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /opt/
+
+## Unzip Android Studio's source code
+sudo unzip /opt/android-studio-ide-*
+
+## Remove the package zip package at end
+sudo rm -r /opt/android-studio-ide-*
+
+## Show dialog to complete installation
+zenity --info --title 'Android Studio 0.8.12 successfully installed' --text '\n This package do not contain an embedded SDK install. \n To get it, go on https://developer.android.com/sdk/index.html and select "GET THE SDK FOR AN EXISTING IDE". \n Thank you!'
