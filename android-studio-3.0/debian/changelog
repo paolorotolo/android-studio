@@ -1,3 +1,10 @@
+android-studio (3.0-0ubuntu0) utopic; urgency=low
+
+  * New upstream release (0.8.13).
+  * Fixes update issue with built-in tool.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Sat, 18 Oct 2014 17:23:16 +0100
+
 android-studio (2.0-0ubuntu0) UNRELEASED; urgency=low
 
   * New upstream release.
