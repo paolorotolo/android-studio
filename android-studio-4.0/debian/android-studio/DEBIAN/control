@@ -1,8 +1,8 @@
 Package: android-studio
-Version: 3.0-0ubuntu0
+Version: 4.0-0ubuntu0
 Architecture: all
 Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
-Installed-Size: 64
+Installed-Size: 63
 Depends: zenity, lib32ncurses5 | libncurses5, default-jdk | oracle-java7-installer | oracle-java8-installer
 Section: devel
 Priority: optional
