@@ -1,3 +1,9 @@
+android-studio (4.1-0ubuntu0) utopic; urgency=low
+
+  * New upstream release (0.9.1).
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 6 Nov 2014 21:18:16 +0100
+
 android-studio (4.0-0ubuntu0) utopic; urgency=low
 
   * New upstream release (0.9.0).
