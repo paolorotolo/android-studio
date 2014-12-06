@@ -1,3 +1,9 @@
+android-studio (4.4-0ubuntu0) vivid; urgency=low
+
+  * New upstream release (1.0 RC 4).
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Sat, 06 Dec 2014 21:47:16 +0100
+
 android-studio (4.3-0ubuntu0) vivid; urgency=low
 
   * New upstream release (1.0 RC 2).
