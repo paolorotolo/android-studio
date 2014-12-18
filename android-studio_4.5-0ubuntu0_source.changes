@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 18 Dec 2014 13:30:16 +0100
+Source: android-studio
+Binary: android-studio
+Architecture: source
+Version: 4.5-0ubuntu0
+Distribution: vivid
+Urgency: low
+Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
+Changed-By: Paolo Rotolo <paolorotolo@ubuntu.com>
+Description:
+ android-studio - Android Studio.
+Changes:
+ android-studio (4.5-0ubuntu0) vivid; urgency=low
+ .
+   * New upstream release (1.0.1).
+Checksums-Sha1:
+ 998a03960dc7bf04894a6a62688d9c881f29a717 1102 android-studio_4.5-0ubuntu0.dsc
+ b67c4764bbd7b5f34382ec449b84f1b6291b442b 7680 android-studio_4.5-0ubuntu0.tar.xz
+Checksums-Sha256:
+ 1e28d87f2b80323c982e65f619a5cdfbe7301f33d97c8fca75fd949999f0b15a 1102 android-studio_4.5-0ubuntu0.dsc
+ 20937da0fe2f692e8c5f2d7f9f0cc6258956727a791dea057efcd35edb7a86cd 7680 android-studio_4.5-0ubuntu0.tar.xz
+Files:
+ 144df0ae6475d2bc7976ee2362d0ff11 1102 devel optional android-studio_4.5-0ubuntu0.dsc
+ b7fc88792b003f89976b8f4916935c33 7680 devel optional android-studio_4.5-0ubuntu0.tar.xz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJUkslfAAoJEPZj7dWN6MREFL8H/jpboJKgW+eyKBaxKlPfXmF1
+qDZQ9NRoIfNi1Aw4vcI4peex03JzHxHeF+J6BUq5tWLF5h72TUxIER0QVCkhlVhR
+vXr3hLpnhW/pjH1cZywl3cC6oNZA4TGEfcvd7nmYvOdfyDRhWPsDpGO05zd+Yf9T
+h+SJ2vuS1qnPRbzICqGQwOX4hRCK+DzFVtjw+Skr7KEOMqZ0Mi0vqiJmVTJHDH48
+ZlOpbZiWtEbXDhR21NUieFDcDqbwwT4Rc83eUDkUSyoGz6Xxg0UeMc9a5n9nxAT1
+0NIL2ev8+JZYriihIdFULcLc8y/Gr5up4bsf4R3jwlUpdotllsBX9afq825zmtM=
+=CwaT
+-----END PGP SIGNATURE-----
