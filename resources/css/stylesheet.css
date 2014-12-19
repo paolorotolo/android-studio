@@ -126,7 +126,7 @@ footer a:focus, footer a:hover {
     height: 100%;
     background-color: #32aad8;
     background-image: url(../img/bg.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -163,15 +163,14 @@ footer a:focus, footer a:hover {
 }
 
 .btn {
-  background: #EF5350
-;
-
+  background: transparent;
+  border: solid #ffffff 3px;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
-    border: none;
   color: #ffffff;
+    
   font-size: 20px;
   padding: 20px 20px 20px 20px;
   text-decoration: none;
@@ -183,7 +182,9 @@ footer a:focus, footer a:hover {
 }
 
 .btn:hover {
-  background: #F44336;
+    text-shadow: none;
+  background: #ffffff;
+  color: #333333;
   text-decoration: none;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
@@ -198,7 +199,7 @@ footer a:focus, footer a:hover {
     height: 100%;
     background-color: #32aad8;
     background-image: url(../img/studio-ubuntu.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: top top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -226,7 +227,7 @@ footer a:focus, footer a:hover {
     height: 100%;
     background-color: #32aad8;
     background-image: url(../img/blueprint.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: top top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -254,7 +255,7 @@ footer a:focus, footer a:hover {
     height: 100%;
     background-color: #32aad8;
     background-image: url(../img/home.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: top top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
