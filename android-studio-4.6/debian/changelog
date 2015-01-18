@@ -1,3 +1,10 @@
+android-studio (4.6-0ubuntu0) vivid; urgency=low
+
+  * New upstream release (1.1p1).
+  * Fixes deps issue on 32bit.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 18 Jan 2015 18:39:17 +0100
+
 android-studio (4.5-0ubuntu0) vivid; urgency=low
 
   * New upstream release (1.0.1).
