@@ -1,3 +1,10 @@
+android-studio (4.7-0ubuntu0) vivid; urgency=low
+
+  * New upstream release (1.1Beta3).
+  * Adds unzip to Depends.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 05 Feb 2015 17:19:17 +0100
+
 android-studio (4.6-0ubuntu0) vivid; urgency=low
 
   * New upstream release (1.1p1).
