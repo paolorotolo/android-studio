@@ -8,4 +8,5 @@ Android Studio by Google packaged for Ubuntu.
 Official website is [available here](http://paolorotolo.github.io/android-studio/).
 
 Latest packaged release: **1.1**.
-Android Studio official changelog: [http://tools.android.com/recent](http://tools.android.com/recent).
+
+Android Studio official changelog [here](http://tools.android.com/recent).
