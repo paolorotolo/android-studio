@@ -1,4 +1,10 @@
-android-studio (4.8-0ubuntu0) vivid; urgency=low
+android-studio (4.8.1-ubuntu0) vivid; urgency=low
+
+  * New upstream release (1.2 Beta 3).
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Mon, 20 Apr 2015 21:20:17 +0100
+
+android-studio (4.8-ubuntu0) vivid; urgency=low
 
   * New upstream release (1.1).
 
