@@ -1,9 +1,9 @@
 Package: android-studio
-Version: 4.8.1-ubuntu0
+Version: 4.8.2-ubuntu0
 Architecture: all
 Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
 Installed-Size: 108
-Depends: default-jdk | oracle-java7-installer | oracle-java8-installer, libncurses5-dev:i386, libc6-i386, lib32stdc++6, lib32gcc1, lib32z1, lib32z1-dev, unzip
+Depends: default-jdk | oracle-java7-installer | oracle-java8-installer, unzip
 Section: devel
 Priority: optional
 Description: Android Studio.

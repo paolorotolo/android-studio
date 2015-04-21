@@ -1,3 +1,9 @@
+android-studio (4.8.2-ubuntu0) vivid; urgency=low
+
+  * Fix broken dependencies on i386.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Mon, 21 Apr 2015 22:20:17 +0100
+
 android-studio (4.8.1-ubuntu0) vivid; urgency=low
 
   * New upstream release (1.2 Beta 3).
