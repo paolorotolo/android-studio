@@ -1,23 +1,23 @@
  dpkg-buildpackage -rfakeroot -d -us -uc -S -sa
 dpkg-buildpackage: source package android-studio
-dpkg-buildpackage: source version 4.8.2-ubuntu0
+dpkg-buildpackage: source version 4.8.3-ubuntu0
 dpkg-buildpackage: source distribution vivid
 dpkg-buildpackage: source changed by Paolo Rotolo <paolorotolo@ubuntu.com>
- dpkg-source --before-build android-studio-4.8.2
+ dpkg-source --before-build android-studio-4.8.3
  fakeroot debian/rules clean
 dh clean
    dh_testdir
    dh_auto_clean
    dh_clean
- dpkg-source -b android-studio-4.8.2
+ dpkg-source -b android-studio-4.8.3
 dpkg-source: warning: native package version may not have a revision
 dpkg-source: warning: Version number suggests Ubuntu changes, but there is no XSBC-Original-Maintainer field
 dpkg-source: info: using source format `3.0 (native)'
-dpkg-source: info: building android-studio in android-studio_4.8.2-ubuntu0.tar.xz
-dpkg-source: info: building android-studio in android-studio_4.8.2-ubuntu0.dsc
- dpkg-genchanges -S -sa >../android-studio_4.8.2-ubuntu0_source.changes
+dpkg-source: info: building android-studio in android-studio_4.8.3-ubuntu0.tar.xz
+dpkg-source: info: building android-studio in android-studio_4.8.3-ubuntu0.dsc
+ dpkg-genchanges -S -sa >../android-studio_4.8.3-ubuntu0_source.changes
 dpkg-genchanges: including full source code in upload
- dpkg-source --after-build android-studio-4.8.2
+ dpkg-source --after-build android-studio-4.8.3
 dpkg-buildpackage: source-only upload: Debian-native package
 Now running lintian...
 W: android-studio source: native-package-with-dash-version
@@ -28,13 +28,13 @@ W: android-studio source: syntax-error-in-dep5-copyright line 18: Continuation l
 W: android-studio source: out-of-date-standards-version 3.9.5 (current is 3.9.6)
 Finished running lintian.
 Now signing changes and any dsc files...
- signfile android-studio_4.8.2-ubuntu0.dsc Paolo Rotolo <paolorotolo@ubuntu.com>
+ signfile android-studio_4.8.3-ubuntu0.dsc Paolo Rotolo <paolorotolo@ubuntu.com>
 gpg: WARNING: unsafe permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 gpg: WARNING: unsafe enclosing directory permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 gpg: WARNING: unsafe permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 gpg: WARNING: unsafe enclosing directory permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 
- signfile android-studio_4.8.2-ubuntu0_source.changes Paolo Rotolo <paolorotolo@ubuntu.com>
+ signfile android-studio_4.8.3-ubuntu0_source.changes Paolo Rotolo <paolorotolo@ubuntu.com>
 gpg: WARNING: unsafe permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 gpg: WARNING: unsafe enclosing directory permissions on configuration file `/home/paolo/.gnupg/gpg.conf'
 gpg: WARNING: unsafe permissions on configuration file `/home/paolo/.gnupg/gpg.conf'

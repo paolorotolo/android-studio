@@ -1,3 +1,9 @@
+android-studio (4.8.3-ubuntu0) vivid; urgency=low
+
+  * New upstream release (Android Studio 1.2 Stable).
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Fri, 08 May 2015 17:56:17 +0100
+
 android-studio (4.8.2-ubuntu0) vivid; urgency=low
 
   * Fix broken dependencies on i386.

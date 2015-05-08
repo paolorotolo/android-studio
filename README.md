@@ -15,6 +15,9 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 ![screenshot from 2014-11-22 17 28 23](https://cloud.githubusercontent.com/assets/5623301/5154769/fbb162a8-726c-11e4-81ce-503a2622bfba.png)
 
 ## Changelog
+* v. 4.8.3
+  *  New upstream release (1.2 Stable);
+
 * v. 4.8.2
   *  Fixed broken dependencies on i386;
 
@@ -58,4 +61,6 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
   *  Android Studio isn't included in packaging anymore. It will be automatically downloaded through the installation process.
 
 *  v. 1.0
-  *  First release. 
+  *  First release.
+
+Upsteam changelog [here](http://tools.android.com/recent).
