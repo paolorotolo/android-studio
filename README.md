@@ -16,6 +16,7 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 **Q:** *Android Studio doesn't appear in Unity's dash / GNOME Overview.*
 
 **A:** I'm [currently working](https://github.com/PaoloRotolo/android-studio/issues/7) on this issue. Meanwhile, you can manually start Android Studio with the following command:
+
 ``` /opt/android-studio/bin/studio.sh ```
 
 ![screenshot from 2014-11-22 17 28 23](https://cloud.githubusercontent.com/assets/5623301/5154769/fbb162a8-726c-11e4-81ce-503a2622bfba.png)
