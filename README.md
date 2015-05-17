@@ -19,6 +19,19 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
 ``` /opt/android-studio/bin/studio.sh ```
 
+###### HiDPI support
+**Q:** *Android Studio looks strange. Some icons and objects are way to small.*
+
+**A:** To fix some of these problems add
+
+```-Dhidpi=true```
+
+to these files:
+
+```/opt/intellij-idea-community/bin/idea.vmoptions```
+
+```/opt/intellij-idea-community/bin/idea64.vmoptions```
+
 ![screenshot from 2014-11-22 17 28 23](https://cloud.githubusercontent.com/assets/5623301/5154769/fbb162a8-726c-11e4-81ce-503a2622bfba.png)
 
 ## Changelog
