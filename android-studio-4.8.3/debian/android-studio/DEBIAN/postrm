@@ -1,5 +1,0 @@
-#!/bin/bash
-cd /opt/
-
-## Remove the Android Studio folder if it's still present
-sudo rm -rf /opt/android-studio/

@@ -8,6 +8,7 @@ Standards-Version: 3.9.5
 
 Package: android-studio
 Architecture: all
-Depends: ${misc:Depends}, default-jdk | oracle-java7-installer | oracle-java8-installer, unzip
+Suggest: default-jdk
+Depends: ${misc:Depends}, java-sdk | oracle-java7-installer | oracle-java8-installer, unzip
 Description: Android Studio.
  Integrated Android developer tools for development and debugging.

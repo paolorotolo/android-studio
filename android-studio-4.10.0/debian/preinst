@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /opt/
+
+## Download Android Studio from Google's Servers.
+wget https://dl.google.com/dl/android/studio/ide-zips/1.3.0.9/android-studio-ide-141.2112779-linux.zip
