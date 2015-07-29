@@ -28,9 +28,9 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
 to these files:
 
-`/opt/intellij-idea-community/bin/studio.vmoptions`
+`/opt/android-studio/bin/studio.vmoptions`
 
-`/opt/intellij-idea-community/bin/studio64.vmoptions`
+`/opt/android-studio/bin/studio64.vmoptions`
 
 ![screenshot from 2014-11-22 17 28 23](https://cloud.githubusercontent.com/assets/5623301/5154769/fbb162a8-726c-11e4-81ce-503a2622bfba.png)
 
