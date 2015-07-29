@@ -1,8 +1,8 @@
-android-studio (4.10.0-ubuntu0) vivid; urgency=low
+android-studio (4.10.0-ubuntu0) wily; urgency=low
 
   * New upstream release (Android Studio 1.3 RC 4).
 
- -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 29 Jul 2015 18:42 :17 +0100
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Thu, 29 Jul 2015 18:42:17 +0100
 
 android-studio (4.9.0-ubuntu0) vivid; urgency=low
 
