@@ -6,7 +6,7 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
 ##FAQ
 ##### 32-bit compatibility libraries
-**Q:** *I can't build correctly my project on Ubuntu amd64. Even if using a sample project with all default settings.*
+**Q:** *I can't correctly build my project on Ubuntu amd64. Even if using a sample project with all default settings.*
 
 **A:** You probably need to install 32-bit compatibility libraries. Open a terminal and run:
 
@@ -14,13 +14,13 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
 ##### Unable to start
 **Q:** *When I click on the icon, Android Studio just doesn't start.*
-**A:** Did you installed Java? Try to install Java 8 from [this PPA](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html).
+**A:** Did you install Java? Try to install Java 8 from [this PPA](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html).
 
 Also, try:
 
 ``` /opt/android-studio/bin/studio.sh ```
 
-If you have this error, you probably have to install **jdk**:
+If you have this error, you probably have to install the **jdk**:
 
 ```
 Start Failed: Internal error. Please report to https://code.google.com/p/android/issues
@@ -38,7 +38,7 @@ at java.lang.Class.initializeClass(libgcj.so.14)
 ``` /opt/android-studio/bin/studio.sh ```
 
 ##### HiDPI support
-**Q:** *Android Studio looks strange. Some icons and objects are way to small.*
+**Q:** *Android Studio looks strange. Some icons and objects are way too small.*
 
 **A:** To fix some of these problems add
 
