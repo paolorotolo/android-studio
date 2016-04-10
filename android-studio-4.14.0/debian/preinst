@@ -2,4 +2,4 @@
 cd /opt/
 
 ## Download Android Studio from Google's Servers.
-wget https://dl.google.com/dl/android/studio/ide-zips/1.5.0.4/android-studio-ide-141.2422023-linux.zip
+wget https://dl.google.com/dl/android/studio/ide-zips/2.0.0.20/android-studio-ide-143.2739321-linux.zip
