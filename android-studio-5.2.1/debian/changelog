@@ -1,3 +1,9 @@
+android-studio (5.2.1-ubuntu0) xenial; urgency=low
+
+  * New upstream release (Android Studio 2.1 Stable).
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Wed, 04 May 2016 17:40:18 +0100
+
 android-studio (4.14.0-ubuntu0) xenial; urgency=low
 
   * New upstream release (Android Studio 2.0 Stable).
