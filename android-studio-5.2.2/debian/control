@@ -1,10 +1,9 @@
 Source: android-studio
+Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
 Section: devel
 Priority: optional
-Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
-Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.5
-
+Build-Depends: debhelper (>= 9)
 
 Package: android-studio
 Architecture: all
@@ -12,3 +11,4 @@ Suggest: default-jdk
 Depends: ${misc:Depends}, java-sdk | oracle-java7-installer | oracle-java8-installer, unzip
 Description: Android Studio.
  Integrated Android developer tools for development and debugging.
+Homepage: https://developer.android.com/
