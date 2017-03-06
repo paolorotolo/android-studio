@@ -1,3 +1,9 @@
+android-studio (5.2.3-ubuntu0) xenial; urgency=low
+
+  * New upstream release (Android Studio 2.3.0 Stable).
+
+ -- Elias Ojala <elias@kotilinux.org>  Sun, 18 Feb 2017 18:49:52 +0200
+
 android-studio (5.2.2-ubuntu0) xenial; urgency=low
 
   * New upstream release (Android Studio 2.2.3 Stable).
