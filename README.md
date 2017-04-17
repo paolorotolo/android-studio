@@ -1,10 +1,22 @@
-Android Studio for Ubuntu
+[DEPRECATED] Android Studio for Ubuntu
 =====================
+**NOTICE: THIS PROJECT IS NO LONGER SUPPORTED.**<br>
+PLEASE CONSIDER USING [UBUNTU-MAKE](https://github.com/ubuntu/ubuntu-make) INSTEAD.
+
+## Install Android Studio VIA ubuntu-make
+```bash
+  # Install Ubuntu Make
+  sudo apt install ubuntu-make
+  
+  # Install Android Studio
+  umake android
+```
+
 
 Android Studio by Google packaged for Ubuntu.
 Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
-##FAQ
+## FAQ
 ##### 32-bit compatibility libraries
 **Q:** *I can't correctly build my project on Ubuntu amd64. Even if using a sample project with all default settings.*
 
