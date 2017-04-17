@@ -1,7 +1,7 @@
 [DEPRECATED] Android Studio for Ubuntu
 =====================
 **NOTICE: THIS PROJECT IS NO LONGER SUPPORTED.**<br>
-PLEASE CONSIDER USING [UBUNTU-MAKE](https://github.com/ubuntu/ubuntu-make) INSTEAD.
+Please consider using [ubuntu-make](https://github.com/ubuntu/ubuntu-make) or [mfonville's repo](https://mfonville.github.io/android-studio/) instead.
 
 ## Install Android Studio VIA ubuntu-make
 ```bash
