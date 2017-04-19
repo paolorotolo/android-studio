@@ -1,0 +1,10 @@
+Package: android-studio
+Version: 5.2.3-ubuntu0
+Architecture: all
+Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
+Installed-Size: 79
+Depends: java-sdk | oracle-java7-installer | oracle-java8-installer, unzip
+Section: devel
+Priority: optional
+Description: Android Studio.
+ Integrated Android developer tools for development and debugging.
