@@ -30,7 +30,7 @@ Visit the official website [here](http://paolorotolo.github.io/android-studio/).
 
 Also, try:
 
-``` /opt/android-studio/bin/studio.sh ```
+``` sudo /opt/android-studio/bin/studio.sh ```
 
 If you have this error, you probably have to install the **jdk**:
 
@@ -47,7 +47,7 @@ at java.lang.Class.initializeClass(libgcj.so.14)
 
 **A:** I'm [currently working](https://github.com/PaoloRotolo/android-studio/issues/7) on this issue. Meanwhile, you can manually start Android Studio with the following command:
 
-``` /opt/android-studio/bin/studio.sh ```
+``` sudo /opt/android-studio/bin/studio.sh ```
 
 ##### HiDPI support
 **Q:** *Android Studio looks strange. Some icons and objects are way too small.*
