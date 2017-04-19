@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# install some dependencies
+sudo apt-get install lib32stdc++6 zlib1g zlib1g:i386
+
 cd /opt/
 
 ## Download Android Studio from Google's Servers.
