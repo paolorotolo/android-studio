@@ -1,3 +1,9 @@
+android-studio (5.2.2-ubuntu0) xenial; urgency=low
+
+  * New upstream release (Android Studio 2.1.1 Stable).
+
+ -- Pierre Duchemin <mail@pierre-duchemin.fr>  Wed, 22 May 2016 17:59:18 +0100
+
 android-studio (5.2.1-ubuntu0) xenial; urgency=low
 
   * New upstream release (Android Studio 2.1 Stable).
